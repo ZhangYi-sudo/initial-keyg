@@ -1,0 +1,3 @@
+﻿  initial+keyg.cpp
+pbc.lib(d000170.o) : warning LNK4078: 找到多个“.text”节，它们具有不同的特性(E0300020)
+  initial+keyg.vcxproj -> C:\Users\86138\Desktop\initial+keyg\Debug\initial+keyg.exe
